@@ -1,0 +1,26 @@
+Level 1:
+New to OutSystems with minimal low-code experience. Needs close 
+guidance.
+- Navigates Service Studio and creates basic screens using widgets.
+- Understands Entities, Aggregates, and basic Client Actions.
+- Can create simple Mobile or Reactive Web screens.
+- Limited or no exposure to Timers, BPT, or Integrations.
+
+Level 2:
+ Works with data models, CRUD operations, and UI blocks.
+- Uses Client/Server Actions, Ifs, Switches, and Loops.
+- Begins consuming REST APIs, configuring timers, and simple mobile 
+logic.
+- Familiar with basic plugins (e.g., camera, barcode).
+- Starting to explore Extensions and Service Modules.
+
+Level 3:
+ Delivers functional features independently. Capable of building end-toend app flows.
+- Designs modular architecture (Core, Services, UI).
+- Implements custom logic, timers, and asynchronous processing.
+- Builds mobile apps using local storage, device plugins, and offline sync.
+- Integrates external systems via REST/SOAP, handles exceptions 
+properly.
+- Uses BPT processes and Extensions for advanced scenarios.
+- Familiar with OutSystems Developer Cloud (ODC)/OS11 basics.
+
