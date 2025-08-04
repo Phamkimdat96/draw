@@ -1,0 +1,31 @@
+Project: Volunteer Event Management System on OutSystems Platform
+
+Scenario: An NGO needs a web app and a mobile app to manage volunteer events. Volunteers should be able to register, browse upcoming events, sign up, check in, and leave feedback. Admins manage events and monitor volunteer activity.
+
+Requirements:
+- Build a web app for volunteers to:         
+     + View a list of upcoming events         
+     + See event details         
+     + Sign up for events             
+     + Submit feedback after the event
+- Consume a public REST API to fetch weather information based on event location and show it on the Event Details screen
+- Create a Timer to send notifications (e.g., reminders) to volunteers before an event starts
+- Build a mobile app that allows volunteers to:   
+    + Check in at events    
+    + Use the Camera plugin to upload a photo at check-in
+- Use a BPT Process to handle post-event processing:    
+    + Once an event is completed, automatically trigger a BPT flow that:    
+    + Sends follow-up emails    
+    + Collects feedback    
+    + Generates participation reports
+- Enable offline functionality:    
+    + Volunteers can check in and take notes even without an internet connection    
+    + Sync the data once the connection is restored (using Local Storage)
+- Build a custom Extension to:    
+   + Perform a small but useful task (e.g., calculate distance between coordinates, generate custom participation code, sanitize input, etc.)    
+   + This Extension must be used at least once in either the mobile or web flow
+
+Submission Instructions:
+- Develop the project in your personal OutSystems environment (Personal Environment or local O11 server).
+- Export all OML files for each module involved in the project.
+- Save the OML files in the your folder on the company OneDrive and share the access to Lai Quang Vinh 
