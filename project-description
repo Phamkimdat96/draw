@@ -1,0 +1,30 @@
+We’re building eIOP – Intermediary Onboarding Platform, a centralized system for onboarding intermediaries across all Business Units. It supports multiple Business Areas, LOBs, and countries, so it’s designed for global use.
+So far, we’ve completed:
+Request Module – captures intermediary details, risk evaluation, and required documents.
+Recommendation Module – handles reviews, due diligence checks, and sequential approvals.
+The platform ensures compliance, transparency, and efficiency with structured workflows and auto-populated data.
+
+
+
+eIOP – Intermediary Onboarding Platform
+We’re building a centralized platform to manage intermediary onboarding across the company. It covers the full workflow from request submission to recommendation and approval, ensuring compliance and governance.
+(Optionally add: It supports multiple Business Areas, LOBs, and countries for all BUs.)
+
+
+For a quick share with another developer, a general overview is enough. Something like:
+“We’re building eIOP, a platform for onboarding intermediaries across all business units. It covers the full workflow from request submission to recommendation and approval, ensuring compliance and governance.”
+
+If you want to emphasize multi-BU and multi-country support, you can add one sentence:
+
+“It’s designed to handle multiple Business Areas, Lines of Business, and countries, so it works for the entire organization.”
+
+
+eIOP – Intermediary Onboarding Platform
+We’re building a centralized platform to manage intermediary onboarding across all Business Units. It supports multiple Business Areas, LOBs, and countries, making it a global solution.
+So far, we’ve delivered:
+
+Request Module – captures intermediary details, risk evaluation, and required documents.
+Recommendation Module – handles reviews, due diligence checks, and sequential approvals.
+
+The goal is to ensure compliance, transparency, and efficiency through structured workflows and auto-populated data.
+
